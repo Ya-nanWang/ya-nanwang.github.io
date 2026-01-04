@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yanan Wang"
-description              : "PhD candidate at Leiden University Centre for Linguistics"
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Psycho/Neuro-linguistics, PhD candidate at Leiden University Centre for Linguistics."
+repository               : "Ya-nanWang/yananwang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,42 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yanan Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
+  bio              : "PhD candidate in Neurolinguistics, Leiden University Centre for Linguistics."
+  location         : "Leiden, The Netherlands"
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  email            : "y.wang.10@hum.leidenuniv.nl"
+  researchgate     : "https://www.researchgate.net/profile/Yanan-Wang-138?ev=hdr_xprf"
+  linkedin         : "https://www.linkedin.com/in/yanan-wang-0449a4306/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5490-2761"
 
 
 # Reading Files
