@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanan Wang"
-description              : "Psycho/Neuro-linguistics"
+description              : "🧠Psycho/Neuro-linguistics"
 repository               : "Ya-nanWang/yananwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yanan Wang"
   avatar           : "images/profile picture.jpg"
   bio              : "PhD candidate"
-  location         : "Leiden, The Netherlands"
+  location         : "The Netherlands"
   
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "y.wang.10@hum.leidenuniv.nl"
