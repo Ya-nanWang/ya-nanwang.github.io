@@ -24,32 +24,28 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
 **Fun Fact:** A Chinese researcher studying Chinese in the Netherlands 🌍 
 
 # 📝 Publications 
+- **Wang, Y.**, Dobel, C., & Schiller, N. O. (2026). The Activation and Selection of Chinese Verbal Classifiers: An ERP Study. (submitted)
+- **Wang, Y.** (2026). ConstrainMix: Pseudorandomization with Flexible Constraints. R package version 0.1.0.  
+  [[GitHub]](https://github.com/Ya-nanWang/ConstrainMix)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🏅 Honors and Awards
+- *2021* Chinese Government Scholarship | China Scholarship Council
+- *2019* National Scholarship | Ministry of Education of China (top 1.5%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.01 - present*, Ph.D. in Linguistics
+  Leiden University Centre for Linguistics, The Netherlands 
+- *2017.09 - 2020.07*, M.A. in English Language, Literature and Culture
+  Beijing International Studies University, China
+- *2012.09 - 2016.07*, B.A. in English Education
+  Baoding University, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conferences
+- *2025*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Activation of Chinese Verbal Classifiers in Bare Verb Naming: An ERP Study. *XVII Symposium of Psycholinguistics*, Barcelona, Spain. (Poster)
+- *2024*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Chinese Verbal Classifier Processing in Verb-Phrase Naming: An ERP Study. *Highlights in the Language Sciences*, Nijmegen, Netherlands. (Poster)
+- *2024*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Chinese Verbal Classifier Processing in Verb-Phrase Naming: An ERP Study. *21st Psycholinguistics in Flanders*, Brussels, Belgium. (Oral)
+- *2019*, **Wang, Y.**, & Wu, J. Does the Degree of Lexicalization Influence Visual Word Recognition? *8th National Conference on Cognitive Neurolinguistics*, Beijing, China. (Oral)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🌿 Service
+- *2022.01 - present*, Member of the Board of Reviewers, Journal of the Undergraduate Linguistics Association of Britain (JOULAB)
+- *2024.09 - 2026.09*, Chinese Language Teacher, ePlus Education.
