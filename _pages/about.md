@@ -25,8 +25,7 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
 
 # 📝 Publications 
 - **Wang, Y.**, Dobel, C., & Schiller, N. O. (2026). The Activation and Selection of Chinese Verbal Classifiers: An ERP Study. (submitted)
-- **Wang, Y.** (2026). ConstrainMix: Pseudorandomization with Flexible Constraints. R package version 0.1.0.  
-  [[GitHub]](https://github.com/Ya-nanWang/ConstrainMix)
+- **Wang, Y.** (2026). ConstrainMix: Pseudorandomization with Flexible Constraints. R package version 0.1.0. [[GitHub]](https://github.com/Ya-nanWang/ConstrainMix)
 
 # 🏅 Honors and Awards
 - *2021* Chinese Government Scholarship, China Scholarship Council
@@ -34,17 +33,28 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
 
 # 📖 Educations
 - *2021.01 - present*, Ph.D. in Linguistics
+  
   Leiden University Centre for Linguistics, The Netherlands 
 - *2017.09 - 2020.07*, M.A. in English Language, Literature and Culture
+  
   Beijing International Studies University, China
 - *2012.09 - 2016.07*, B.A. in English Education
+
   Baoding University, China
 
 # 💬 Conferences
-- *2025*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Activation of Chinese Verbal Classifiers in Bare Verb Naming: An ERP Study. *XVII Symposium of Psycholinguistics*, Barcelona, Spain. (Poster)
-- *2024*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Chinese Verbal Classifier Processing in Verb-Phrase Naming: An ERP Study. *Highlights in the Language Sciences*, Nijmegen, Netherlands. (Poster)
-- *2024*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Chinese Verbal Classifier Processing in Verb-Phrase Naming: An ERP Study. *21st Psycholinguistics in Flanders*, Brussels, Belgium. (Oral)
-- *2019*, **Wang, Y.**, & Wu, J. Does the Degree of Lexicalization Influence Visual Word Recognition? *8th National Conference on Cognitive Neurolinguistics*, Beijing, China. (Oral)
+- *2025*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Activation of Chinese Verbal Classifiers in Bare Verb Naming: An ERP Study.
+
+  *XVII Symposium of Psycholinguistics*, Barcelona, Spain. (Poster)
+- *2024*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Chinese Verbal Classifier Processing in Verb-Phrase Naming: An ERP Study.
+
+  *Highlights in the Language Sciences*, Nijmegen, Netherlands. (Poster)
+- *2024*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Chinese Verbal Classifier Processing in Verb-Phrase Naming: An ERP Study.
+
+  *21st Psycholinguistics in Flanders*, Brussels, Belgium. (Oral)
+- *2019*, **Wang, Y.**, & Wu, J. Does the Degree of Lexicalization Influence Visual Word Recognition?
+
+  *8th National Conference on Cognitive Neurolinguistics*, Beijing, China. (Oral)
 
 # 🌿 Services
 - *2022.01 - present*, Member of the Board of Reviewers, Journal of the Undergraduate Linguistics Association of Britain (JOULAB)
