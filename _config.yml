@@ -22,15 +22,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yanan Wang"
-  avatar           : "images/profile picture.jpg"
+  avatar           : "images/profile_picture.jpg"
   bio              : "PhD candidate"
   location         : "The Netherlands"
   
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "y.wang.10@hum.leidenuniv.nl"
   researchgate     : "https://www.researchgate.net/profile/Yanan-Wang-138?ev=hdr_xprf"
-  linkedin         : "https://www.linkedin.com/in/yanan-wang-0449a4306/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5490-2761"
+  linkedin         : "yanan-wang-0449a4306"
+  orcid            : "0000-0001-5490-2761"
 
 
 # Reading Files
