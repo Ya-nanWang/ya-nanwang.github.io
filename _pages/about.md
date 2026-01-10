@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate at the **Leiden University Centre for Linguistics (LUCL)**, working in the areas of **psycholinguistics and neurolinguistics**. My study primarily focus on **speech production**. 
+I am a PhD candidate at the **Leiden University Centre for Linguistics (LUCL)**, working in the areas of **psycholinguistics and neurolinguistics**. 
+
+My study primarily focus on **speech production**. 
 
 Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** are processed during language production, with a particular interest in the roles of **lexico-syntactic features**, **orthographic** and **phonological representations**. My broader goal is to better understand the cognitive and neural mechanisms underlying the complexity of the Chinese language.
 
