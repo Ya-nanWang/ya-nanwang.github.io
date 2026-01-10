@@ -58,4 +58,4 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
 
 # 🌿 Services
 - *2022.01 - present*, Member of the Board of Reviewers, Journal of the Undergraduate Linguistics Association of Britain (JOULAB)
-- *2024.09 - 2026.09*, Chinese Language Teacher, ePlus Education.
+- *2024.09 - 2026.09*, Volunteer Chinese Language Teacher, ePlus Education.
