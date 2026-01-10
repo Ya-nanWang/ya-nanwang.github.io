@@ -29,8 +29,8 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
   [[GitHub]](https://github.com/Ya-nanWang/ConstrainMix)
 
 # 🏅 Honors and Awards
-- *2021* Chinese Government Scholarship | China Scholarship Council
-- *2019* National Scholarship | Ministry of Education of China (top 1.5%)
+- *2021* Chinese Government Scholarship, China Scholarship Council
+- *2019* National Scholarship, Ministry of Education of China (top 1.5%)
 
 # 📖 Educations
 - *2021.01 - present*, Ph.D. in Linguistics
