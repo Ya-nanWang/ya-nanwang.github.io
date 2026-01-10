@@ -25,17 +25,14 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
 
 **Fun Fact:** A Chinese researcher studying Chinese in the Netherlands 🌍 
 
-<a id="Publications"></a>
 # 📝 Publications
 - **Wang, Y.**, Dobel, C., & Schiller, N. O. (2026). The Activation and Selection of Chinese Verbal Classifiers: An ERP Study. (submitted)
 - **Wang, Y.** (2026). ConstrainMix: Pseudorandomization with Flexible Constraints. R package version 0.1.0. [[GitHub]](https://github.com/Ya-nanWang/ConstrainMix)
 
-<a id="Honors and Awards"></a>
 # 🏅 Honors and Awards
 - *2021* Chinese Government Scholarship, China Scholarship Council
 - *2019* National Scholarship, Ministry of Education of China (top 1.5%)
 
-<a id="Educations"></a>
 # 📖 Educations
 - *2021.01 - present*, Ph.D. in Linguistics
   
@@ -47,7 +44,6 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
 
   Baoding University, China
 
-<a id="Conferences"></a>
 # 💬 Conferences
 - *2025*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Activation of Chinese Verbal Classifiers in Bare Verb Naming: An ERP Study.
 
@@ -62,7 +58,6 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
 
   *8th National Conference on Cognitive Neurolinguistics*, Beijing, China. (Oral)
 
-<a id="Services"></a>
 # 🌿 Services
 - *2022.01 - present*, Member of the Board of Reviewers, Journal of the Undergraduate Linguistics Association of Britain (JOULAB)
 - *2024.09 - 2026.09*, Volunteer Chinese Language Teacher, ePlus Education.
