@@ -21,7 +21,7 @@ I am a PhD candidate at the **Leiden University Centre for Linguistics (LUCL)**,
 
 My study primarily focus on **speech production**. 
 
-Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** are processed during language production, with a particular interest in the roles of **lexico-syntactic features**, **orthographic** and **phonological representations**. My broader goal is to better understand the cognitive and neural mechanisms underlying the complexity of the Chinese language.<br>
+Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** are processed during language production, with a particular interest in the roles of **lexico-syntactic features**, **orthographic** and **phonological representations**. My broader goal is to better understand the cognitive and neural mechanisms underlying the complexity of the Chinese language.<br><br>
 
 **Fun Fact:** A Chinese researcher studying Chinese in the Netherlands 🌍 
 
