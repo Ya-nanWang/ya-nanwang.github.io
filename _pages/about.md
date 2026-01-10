@@ -46,6 +46,6 @@ Using **ERP (Event-Related Potentials)**, I investigate how **Chinese verbs** ar
 - *2024*, **Wang, Y.**, Dobel, C., & Schiller, N. O. Chinese Verbal Classifier Processing in Verb-Phrase Naming: An ERP Study. *21st Psycholinguistics in Flanders*, Brussels, Belgium. (Oral)
 - *2019*, **Wang, Y.**, & Wu, J. Does the Degree of Lexicalization Influence Visual Word Recognition? *8th National Conference on Cognitive Neurolinguistics*, Beijing, China. (Oral)
 
-# 🌿 Service
+# 🌿 Services
 - *2022.01 - present*, Member of the Board of Reviewers, Journal of the Undergraduate Linguistics Association of Britain (JOULAB)
 - *2024.09 - 2026.09*, Chinese Language Teacher, ePlus Education.
