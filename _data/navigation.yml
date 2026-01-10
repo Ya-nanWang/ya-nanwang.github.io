@@ -10,13 +10,13 @@ main:
     url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "#-educations"
 
   - title: "Conferences"
-    url: "/#-Conference"
+    url: "#-Conference"
 
   - title: "Services"
-    url: "/#-Service"
+    url: "#-Service"
