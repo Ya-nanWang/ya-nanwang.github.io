@@ -7,16 +7,16 @@ main:
    # url: "/#-news"
 
   - title: "Publications"
-    url: "/#-Publications"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-Honors-and-Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-Educations"
+    url: "/#-educations"
 
   - title: "Conferences"
-    url: "/#-Conferences"
+    url: "/#-conferences"
 
   - title: "Services"
-    url: "/#-Services"
+    url: "/#-services"
